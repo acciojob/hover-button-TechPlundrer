@@ -1,15 +1,1 @@
-//your code here
-#btn{
-background-color:black;
-color:white;
-border:none;
-border-radius:5px;
-padding:10px 20px;
-cursor:pointer;
-}
 
-#btn:hover{
-background-color:yellow;
-color:black;
-border-radius:30px;
-}
